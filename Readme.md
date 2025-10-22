@@ -6,6 +6,8 @@ This project recommends movies based on their similarity in genres, keywords, ca
 
 The model uses Natural Language Processing (NLP) and cosine similarity to analyze textual metadata from the TMDB 5000 Movie Dataset and returns the most similar titles.
 
+## Live Demo
+Try the app online: [Movie Recommender System](https://movie-recommendation-system-dfjcccaarsraxulfvwj5sz.streamlit.app/)
 
 
 ### Features
